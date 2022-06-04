@@ -14,16 +14,16 @@ Bilecik şeyh edebali üniversitesi öğrenci bilgilendirme sisteminde güz dön
 
 ## Robotik Süreç Otomasyon Adımları 
 
-**Adım 1 :** Başla  
-**Adım 2 :** Microsoft Edge Tarayıcısını aç    
+**Adım 1 :**  Başla  
+**Adım 2 :**  Microsoft Edge Tarayıcısını aç    
 **Adım 3 :**  **https://obs.bilecik.edu.tr/login.aspx?ReturnUrl=/default.aspx** adresine git   
-**Adım 4 :** Kullanıcı adı ve şifre alanlarını doldur sisteme giriş yap   
-**Adım 5 :** Bilgilendirme Pencerelerini kapat   
-**Adım 6 :** Güz dönemi not bilgilerini seç   
-**Adım 7 :** Not verilerini kopyala   
-**Adım 8 :** Belirlenen konumdaki excel dosyasında **"notlar"** sayfasına not verilerini ekle  
-**Adım 9 :** Grafik için gerekli olan alanları sayısal veri tipine dönüştür   
+**Adım 4 :**  Kullanıcı adı ve şifre alanlarını doldur sisteme giriş yap   
+**Adım 5 :**  Bilgilendirme Pencerelerini kapat   
+**Adım 6 :**  Güz dönemi not bilgilerini seç   
+**Adım 7 :**  Not verilerini kopyala   
+**Adım 8 :**  Belirlenen konumdaki excel dosyasında **"notlar"** sayfasına not verilerini ekle  
+**Adım 9 :**  Grafik için gerekli olan alanları sayısal veri tipine dönüştür   
 **Adım 10 :** Alanları seçerek excel sisteminde grafik oluştur    
-**Adım 11:** cGrafik görselini ve açıklamaları düzenle   
+**Adım 11:**  Grafik görselini ve açıklamaları düzenle   
 **Adım 12 :** İşlemler sonunda özet yaz   
 **Adım 13 :** çıkış yap    
